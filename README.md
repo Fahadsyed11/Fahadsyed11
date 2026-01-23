@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on Artificial Intelligence & Data Sciences <br>🤝 I’m looking for help from Web developers<br>🌱 I’m currently learning Web development<br>💬 Ask me about Artificial Intelligence<br>
+🔭 I’m pursuing Artificial Intelligence & Data Sciences.<br>🌱 I’m currently learning Web development and Python.<br>💬 Ask me about Artificial Intelligence<br>
 
 
 ## 🌐 Socials:

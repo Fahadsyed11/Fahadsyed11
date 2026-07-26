@@ -139,21 +139,6 @@ Passionate about building intelligent systems that solve real-world problems thr
 - 💻 Freelance Opportunities
 - 🚀 Startup Collaborations
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FahadSyed11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=FahadSyed11&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadSyed11&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
